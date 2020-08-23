@@ -1,6 +1,6 @@
 # ds_salary_project
 
-## data_cleaning
+## Data Cleaning
 
 ## Resources
 https://github.com/arapfaik/scraping-glassdoor-selenium
