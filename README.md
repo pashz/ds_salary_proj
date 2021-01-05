@@ -1,4 +1,4 @@
-# DS_salary_project
+# DS Salary Project
 
 ## Data Cleaning
 
